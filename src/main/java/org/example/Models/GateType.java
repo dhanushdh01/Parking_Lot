@@ -1,2 +1,4 @@
-package org.example.Models;public enum GateType {
+package org.example.Models;
+
+public enum GateType {
 }

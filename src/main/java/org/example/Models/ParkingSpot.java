@@ -1,2 +1,4 @@
-package org.example.Models;public class ParkingSpot {
+package org.example.Models;
+
+public class ParkingSpot {
 }

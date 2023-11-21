@@ -1,2 +1,4 @@
-package org.example.Models;public enum VehicleType {
+package org.example.Models;
+
+public enum VehicleType {
 }

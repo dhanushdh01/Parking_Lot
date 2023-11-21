@@ -1,2 +1,5 @@
-package org.example.Models;public class Bill {
+package org.example.Models;
+
+public class Bill {
+
 }
